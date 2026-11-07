@@ -12,7 +12,7 @@ python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\act
 pip install -r requirements.txt
 ```
 
-**Author:** Mohammed Faaiz
+
 ## How to run the pipeline
 
 ```bash
